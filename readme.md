@@ -35,4 +35,4 @@ view test report : `allure serve output`
 
 ## Reporter
     Allure
- ![Screenshot](allure report.png)
+ ![Screenshot](allurereport.png)
